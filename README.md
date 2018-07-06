@@ -1,0 +1,2 @@
+# RoboticInferenceProject
+The project presented in this repository focuses on the recognition of objects using a video camera that transmits live. For the recognition of objects, two neural networks with different samples were trained. Then with the video camera transmitting live, the neural network uses the images captured as input and infers as output a label for the object captured in the image also generate a type of electronic action, such as turning on a led.

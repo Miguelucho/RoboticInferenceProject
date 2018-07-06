@@ -1,0 +1,10 @@
+Cocodrilo
+Elefante
+Guepardo
+Hipopotamo
+Jirafa
+Leon
+Oso
+Primate
+Rinoceronte
+Vacio
